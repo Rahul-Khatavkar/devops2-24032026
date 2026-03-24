@@ -1,0 +1,20 @@
+{
+  "name": "devops2-24032026",
+  "version": "1.0.0",
+  "description": "devops2-24032026",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahul-Khatavkar/devops2-24032026.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rahul-Khatavkar/devops2-24032026/issues"
+  },
+  "homepage": "https://github.com/Rahul-Khatavkar/devops2-24032026#readme"
+}
